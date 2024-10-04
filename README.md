@@ -10,7 +10,7 @@ conda activate zerofake
 You also need to download the spacy model by:
 
 ```
-python3 -m spacy download en_core_web_sm
+python -m spacy download en_core_web_sm
 ```
 
 ### Reconstruction
